@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PSX Intelligence</string>
+    <string name="default_psx_url">https://psxbackendmobile-jquev7jajg6fgfmiwvexhq.streamlit.app</string>
+</resources>
